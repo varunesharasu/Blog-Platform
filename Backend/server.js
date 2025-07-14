@@ -26,7 +26,7 @@ app.use(express.static(path.join(__dirname , "public") ))
 
 const server = app.listen(PORT,()=>{
 
-    console.log(`Server running on port  ${PORT} : ${process.env.NODE_ENV}`)
+    console.log(`Server runs on port  ${PORT} : ${process.env.NODE_ENV}`)
 
 })
 

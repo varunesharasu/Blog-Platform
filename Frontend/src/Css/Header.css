@@ -208,7 +208,3 @@ header .logo h5 {
     height: 24px;
     text-align: center;
 }
-.header_options div.noAuth_options {
-    display: flex;
-    align-items: center;
-}

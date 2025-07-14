@@ -162,8 +162,3 @@
 .addStory-form .success_msg a:hover {
     color: #0205b1;
 }
-.addStory-form .error_msg a {
-    color: black;
-    font-weight: bold;
-    padding-left: 1rem;
-}

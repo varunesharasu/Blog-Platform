@@ -124,12 +124,3 @@
         transform: translateX(150%)
     }
 }
-.Inclusive-resetPassword-page {
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: #EDF0F7;
-}

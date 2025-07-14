@@ -168,15 +168,3 @@
     font-size: 0.9rem;
     text-align: center;
 }
-
-.success_message {
-    width: 100%;
-    border-radius: 8px;
-    margin-bottom: 1.5rem;
-    margin-top: -1.2rem;
-    background-color: rgba(14, 218, 75, 0.9);
-    color: white;
-    padding: 8px;
-    font-size: 0.9rem;
-    text-align: center;
-}

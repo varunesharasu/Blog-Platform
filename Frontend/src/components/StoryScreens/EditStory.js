@@ -114,7 +114,7 @@ const EditStory = () => {
                                 <AiOutlineUpload />
                                 <div class="txt">
 
-                                    {image === previousImage ? "    please Change the image in your story " :
+                                    {image === previousImage ? "    Change the image in your story " :
                                         image.name}
 
                                 </div>

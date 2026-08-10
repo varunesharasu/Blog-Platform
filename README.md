@@ -169,5 +169,3 @@ Frontend/
 5. Open a pull request
 
 ---
-
-## License

@@ -65,7 +65,7 @@ Frontend/
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js (v16+ recommended)
+- Node.js
 - npm or yarn
 - MongoDB (local or cloud)
 
